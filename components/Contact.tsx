@@ -27,7 +27,7 @@ function Contact() {
                 </svg>
               </div>
               <Link href={"mailto:print2go247@gmail.com"} >
-                <h3 className='cursor-pointer ml-4 font-open text-lg md:text-2xl font-medium text-textColor py-4'><a href="https://form.jotform.com/223258749959274">print2go247@gmail.com</a></h3>
+                <h3 className='cursor-pointer ml-4 font-open text-lg md:text-2xl font-medium text-textColor py-4'><a href="https://form.jotform.com/223258749959274">printtogo247@gmail.com</a></h3>
               </Link>
             </div>
             <div className='flex m-4'>
